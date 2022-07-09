@@ -1,0 +1,12 @@
+{"player":"Erling Haaland","teamFrom":4,"teamTo":65,"fee":75000000,"transferDate":"2022-07-01","transferId":1}
+{"player":"Federico Chiesa","teamFrom":99,"teamTo":109,"fee":40000000,"transferDate":"2022-06-31","transferId":2}
+{"player":"Nuno Mendes","teamFrom":498,"teamTo":524,"fee":38000000,"transferDate":"2022-06-31","transferId":3}
+{"player":"Diego Carlos","teamFrom":559,"teamTo":58,"fee":31000000,"transferDate":"2022-06-31","transferId":4}
+{"player":"Niklas Süle","teamFrom":5,"teamTo":4,"fee":0,"transferDate":"2022-06-01","transferId":5}
+{"player":"Antonio Rüdiger","teamFrom":61,"teamTo":86,"fee":0,"transferDate":"2022-07-01","transferId":6}
+{"player":"André Zambo Anguissa","teamFrom":63,"teamTo":113,"fee":15000000,"transferDate":"2022-07-01","transferId":7}
+{"player":"Nico Schlotterbeck","teamFrom":17,"teamTo":4,"fee":20000000,"transferDate":"2022-07-05","transferId":8}
+{"player":"Joaquín Correa","teamFrom":110,"teamTo":108,"fee":23600000,"transferDate":"2022-07-10","transferId":9}
+{"player":"Mattéo Guendouzi","teamFrom":57,"teamTo":516,"fee":11000000,"transferDate":"2022-07-10","transferId":10}
+{"player":"Pedro Porro","teamFrom":65,"teamTo":498,"fee":8500000,"transferDate":"2022-07-10","transferId":11}
+{"player":"Philippe Coutinho","teamFrom":81,"teamTo":58,"fee":20000000,"transferDate":"2022-07-10","transferId":12}
